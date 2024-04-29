@@ -1,1 +1,1 @@
-![image](https://github.com/bryanserrano317/similar_leetcode_questions/blob/main/usage-example.png?raw=true)
+![Alt Text](./usage-example.png)
